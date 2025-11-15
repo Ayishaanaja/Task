@@ -1,4 +1,4 @@
-package Thread;
+package Threadtask;
 
 class FileDownloader extends Thread {
     String chunkName;

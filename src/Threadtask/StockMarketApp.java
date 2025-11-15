@@ -1,4 +1,4 @@
-package Thread;
+package Threadtask;
 class Stock implements Runnable {
     String name;
     int price;
